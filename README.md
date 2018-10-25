@@ -1,3 +1,5 @@
-# Android-Fingerprint-Authentication-App
+# com.br.inovagames.pontodigital
 
-The Detailed Explaination of This App is in this youtube Tutorial : https://youtu.be/dI9TItdw83U
+#Importe o projeto no android Studio#
+
+Rode o projeto no seu celular - versao do android testada no celular 8.1
