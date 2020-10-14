@@ -1,4 +1,5 @@
-# br.com.inovagames.pontodigital
+[Read this page in English](https://github.com/ivan12/Ponto-Digital/edit/master/README.md)
+[Leia esta página em português](https://github.com/ivan12/Ponto-Digital/edit/master/README-pt.md)
 
 #Importe o projeto no android Studio
 
