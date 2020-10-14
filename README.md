@@ -1,4 +1,4 @@
-[Leia em português](https://github.com/ivan12/Ponto-Digital/edit/master/README-pt.md)
+[Leia em português](https://github.com/ivan12/Ponto-Digital/blob/master/README-pt.md)
 
 #Import the project in android Studio
 
