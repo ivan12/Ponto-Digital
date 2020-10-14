@@ -1,4 +1,4 @@
-[Select Language: português](https://github.com/ivan12/Ponto-Digital/blob/master/README-pt.md)
+Select Language: [Português](https://github.com/ivan12/Ponto-Digital/blob/master/README-pt.md)
 
 #Import the project in android Studio
 
