@@ -1,5 +1,5 @@
 
-Select Language: [English](https://github.com/ivan12/Ponto-Digital/blob/master/README.md)
+Selecione a lingua: [English](https://github.com/ivan12/Ponto-Digital/blob/master/README.md)
 
 #Importe o projeto no android Studio
 
